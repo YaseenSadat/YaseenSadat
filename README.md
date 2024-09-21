@@ -4,8 +4,8 @@ I'm Yaseen from Toronto, Ontario! I'm currently pursuing a Computer Science Spec
 
 Skills: Python / JavaScript / React
 
-- 🔭 I’m currently working on Forest of Echoes 🎮 
-- 🌱 I’m currently learning React, React Native 
+- 🔭 I’m currently working on a Full-Stack Developed E-Commerece Website  
+- 🌱 I’m currently learning Stripe and MERN
 - 📫 How to reach me: yaseensadat2@gmail.com 
 - ⚡ Fun fact: The first game I developed was when I was 11! 
 
