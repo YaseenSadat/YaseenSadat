@@ -1,6 +1,6 @@
 ### Hi there 👋, Yaseen Sadat
 #### Software Development
-I'm Yaseen from Toronto, Ontario! I'm currently pursuing a Computer Science Specialist undergrad at University of Toronto (St. George).I'm passionate about game and full-stack development, and I can't wait to see where the AI revolution takes us next—it's like being part of a sci-fi movie unfolding in real life! I'm constantly exploring new technologies and techniques to create innovative solutions.
+I'm Yaseen from Toronto, Ontario! I'm currently pursuing a Computer Science Specialist undergrad at University of Toronto (St. George). I'm passionate about game and full-stack development, and I can't wait to see where the AI revolution takes us next—it's like being part of a sci-fi movie unfolding in real life! I'm constantly exploring new technologies and techniques to create innovative solutions.
 
 Skills: React /Typescript / Python / HTML and CSS / SQL / Java / The C languages / DrRacket / Haskell
 
