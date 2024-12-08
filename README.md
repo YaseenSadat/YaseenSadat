@@ -4,6 +4,7 @@ I'm Yaseen from Toronto, Ontario! I'm currently pursuing a Computer Science Spec
 
 Skills: React / Typescript / Python / HTML and CSS / SQL / Java / The C languages / DrRacket / Haskell
 
+- 📚 My Portfolio: <a href='https://yaseensadatportfolio.netlify.app'>
 - 🔭 I’m currently working on a Full-Stack Developed E-Commerece Website  
 - 🌱 I’m currently learning Stripe and MERN
 - 📫 How to reach me: yaseensadat2@gmail.com 
