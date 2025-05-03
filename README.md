@@ -5,11 +5,7 @@ I'm Yaseen from Toronto, Ontario! I'm currently pursuing a Computer Science Spec
 Skills: React / Typescript / Python / HTML and CSS / SQL / Java / The C languages / DrRacket / Haskell
 
 - 📚 Check out my portfolio [here](https://yaseensadatportfolio.netlify.app).
-- 🔭 I’m currently working on a Full-Stack Developed E-Commerece Website  
-- 🌱 I’m currently learning Stripe and MERN
 - 📫 How to reach me: yaseensadat2@gmail.com 
-- ⚡ Fun fact: The first game I developed was when I was 11! 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YaseenSadat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yaseen-sadat/)  
 
