@@ -22,7 +22,7 @@ const yaseen = {
   now:        "Full Stack Engineer Intern @ Relay Financial",
   before:     ["Aston Dynamics", "Freedom Mobile", "Flomaru"],
   school:     "Computer Science @ University of Toronto (2028)",
-  base:       "Toronto, ON 🇨🇦",
+  base:       ["Toronto, ON 🇨🇦", "Piscataway, NJ 🇺🇸"],
   obsessions: ["distributed systems", "cloud infra", "data pipelines", "AI platforms"],
   motto:      "if it runs in prod, measure it. then make it faster.",
 };
