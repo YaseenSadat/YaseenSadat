@@ -11,7 +11,6 @@
 <a href="https://yaseensadatportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/yaseensadat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yaseensadat2@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=YaseenSadat&style=for-the-badge&color=7c3aed&label=VISITORS" />
 
 </div>
 
