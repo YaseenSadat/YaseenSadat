@@ -30,15 +30,15 @@ const yaseen = {
 ## ⚡ Production receipts
 
 ```diff
-+ $25K/month saved on Datadog by cutting log volume 71% (1.4B → 400M)
-+ Card-campaign releases: 1 day → 5 minutes, 23 manual steps automated
-+ AWS Bedrock AI platform behind 2K+ incident root-cause analyses across 5 teams
-+ 15+ GB/day of telemetry from 1K+ devices on a serverless S3/Lambda/SQS platform
-+ 5 TB+/day through a fault-tolerant parallel Python ETL framework
-+ 300+ AWS resources moved into Terraform with zero drift
-- 30% API latency on 694K monthly requests
-- 90% ETL runtime through I/O-bound parallelization
-- 1M+ invalid records stopped before reaching 15 downstream pipelines
++ Cut monitoring costs by cleaning up logging across a fintech platform
++ Turned day-long manual card launches into self-serve releases
++ Launched an AI on-call assistant on AWS Bedrock used across engineering teams
++ Architected a serverless telemetry platform for a fleet of smart trailer brakes
++ Built and scaled data pipelines moving terabytes a day at a national carrier
++ Brought an entire AWS account under Terraform
+- API latency on the card platform
+- ETL runtime through parallelization
+- Bad data reaching downstream pipelines
 ```
 
 ## 🛠 Where I've shipped
