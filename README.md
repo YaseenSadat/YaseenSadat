@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3b1d8f,100:7c3aed&height=210&section=header&text=Yaseen%20Sadat&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=I%20build%20systems%20that%20move%20terabytes%20and%20save%20real%20money&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/YaseenSadat">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Full+Stack+Engineer+Intern+%40+Relay+Financial;Cut+Datadog+log+volume+1.4B+%E2%86%92+400M+(%2425K%2Fmonth+saved);Took+card+releases+from+1+day+%E2%86%92+5+minutes;Shipped+ETL+moving+5+TB%2B+a+day;CS+%40+University+of+Toronto" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Full+Stack+Engineer+Intern+%40+Relay+Financial;Cutting+monitoring+costs+at+a+fintech;Turning+manual+card+launches+into+self-serve;Built+data+pipelines+that+move+terabytes;CS+%40+University+of+Toronto" alt="Typing intro" />
 </a>
 
 <br/>
